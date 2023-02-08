@@ -1,0 +1,16 @@
+id: IC8F63E4E
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:05:19.110566
+last_modified: 2023-02-08 15:05:19.110694
+source_metadata:
+  title: Gaganagañjaparipṛcchā
+  language: zh
+bases:
+  EA82:
+    base_file: EA82.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

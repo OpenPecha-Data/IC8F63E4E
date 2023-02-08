@@ -1,0 +1,43 @@
+id: 8f2b7c5331074bf598c09206cde3fa09
+annotation_type: index
+revision: '00001'
+annotations:
+  91b1c1b8a16f43bdad257014ed59be09:
+    base: EA82.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 46
+    - title: I. The Occasion
+      span:
+        start: 47
+        end: 443
+    - title: II. Introduction
+      span:
+        start: 444
+        end: 6576
+    - title: III. 37 Questions
+      span:
+        start: 6577
+        end: 7088
+    - title: IV. 37 Answers
+      span:
+        start: 7089
+        end: 25843
+    - title: V. Miracle
+      span:
+        start: 25844
+        end: 30049
+    - title: VI. Dialogues
+      span:
+        start: 30050
+        end: 41327
+    - title: VII. Transmission
+      span:
+        start: 41328
+        end: 42765
+    - title: Colophon
+      span:
+        start: 42766
+        end: 42787
